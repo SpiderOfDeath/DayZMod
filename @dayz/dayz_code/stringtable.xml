@@ -254,7 +254,7 @@
 		<Key ID="str_player_11">
 			<Original>You need to sit in the driver seat before you can repair this vehicle</Original>
 			<English>You need to sit in the driver seat before you can repair this vehicle</English>
-			<German>You need to sit in the driver seat before you can repair this vehicle</German>
+			<German>Sie müssen im Fahrersitz sitzen um dieses Fahrzeug reparieren zu können.</German>
 			<Russian>Для ремонта требуется занять место водителя хотя бы раз.</Russian>
 		</Key>
 		<Key ID="str_player_12">
@@ -266,13 +266,13 @@
 		<Key ID="str_player_13">
 			<Original>Waiting for character to create</Original>
 			<English>Waiting for character to create</English>
-			<German>Warte auf den Spieler um zu erstellen</German>
+			<German>Warte darauf, einen neuen Charakter um zu erstellen</German>
 			<Russian>Пожалуйста, выйдите в окно выбора игрока чтобы продолжить игру</Russian>
 		</Key>
 		<Key ID="str_player_14">
 			<Original>Retrying to Authenticate</Original>
 			<English>Retrying to Authenticate</English>
-			<German>Versuche erneut zu Authendifizieren</German>
+			<German>Versuche erneut zu Authentifizieren</German>
 			<Russian>Попытка аутентификации</Russian>
 		</Key>
 		<Key ID="str_player_15">
@@ -296,7 +296,7 @@
 		<Key ID="str_player_18">
 			<Original>You are running an incorrect version of DAYZ_CODE, please download this file from dayzmod.com/downloads (You are running version %1 and the server is running version %2)</Original>
 			<English>You are running an incorrect version of DAYZ_CODE, please download this file from dayzmod.com/downloads (You are running version %1 and the server is running version %2)</English>
-			<German>Du hast eine falsche version von DAYZ_CODE, bitte lade dir die neuste Version von www.dayzmod.com/downloads runter </German>
+			<German>Du hast eine falsche Version von DAYZ_CODE, bitte lade dir die neuste Version von www.dayzmod.com/downloads runter </German>
 			<Russian>Вы используете неверную версию DAYZ_CODE, пожалуйста, скачайте данный файл с dayzmod.com/downloads (Ваша версия %1, версия на сервере %2)</Russian>
 		</Key>
     <Key ID="str_player_20">
@@ -428,7 +428,7 @@
 		<Key ID="str_death_unknown">
 			<Original>an unknown cause</Original>
 			<English>an unknown cause</English>
-			<German>einen unbekannter Grund</German>
+			<German>einen unbekannten Grund</German>
 			<Russian>неизвестной причины</Russian>
 		</Key>
 	</Package>
